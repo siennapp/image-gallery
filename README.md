@@ -1,8 +1,10 @@
 # Image list 
 
 ## 프로젝트 설명
-
+이미지 최적화 연습을 위함
 핀터레스트 레이아웃 무한 스크롤 이미지 갤러리
+
+[데모](https://siennapp.github.io/image-gallery/)
  
 ## 사용 라이브러리
 
